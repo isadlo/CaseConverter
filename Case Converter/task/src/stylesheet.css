@@ -1,0 +1,14 @@
+.title {
+    font-family: Candara;
+}
+
+.area {
+    width: 900px;
+    height: 600px;
+}
+
+button {
+    background-color: lightsalmon;
+    text-align: center;
+    font-size: 15px;
+}
